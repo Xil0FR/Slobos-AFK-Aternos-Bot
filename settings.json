@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "BloodClashSmp.aternos.me",
+    "port": 33673,
     "version": "",
     "try-creative": false
   },

@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Generator",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "BloodClashSmp.aternos.me",

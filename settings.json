@@ -8,7 +8,7 @@
   "server": {
     "ip": "BloodClashSmp.aternos.me",
     "port": 33673,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
